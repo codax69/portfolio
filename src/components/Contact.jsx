@@ -25,7 +25,7 @@ const Contact = () => {
     try {
       const result = await emailjs.sendForm(
         'service_kmgp4p3', // Replace with your EmailJS service ID
-        'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
+        'template_bkzr0co', // Replace with your EmailJS template ID
         form.current,
         'hQukCIbZjrpfX7JhV' // Replace with your EmailJS public key
       );
