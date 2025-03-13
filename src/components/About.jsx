@@ -23,7 +23,7 @@ export const About = () => {
           <div className="w-full md:w-2/3 text-gray-300">
             <h3 className="text-3xl font-semibold text-orange-500 mb-4 font">{`Hi, I'm Pritesh`}</h3>
             <p className="text-lg mb-6 font-mona">
-             {` I'm a passionate Web Developer with expertise in building modern and responsive web applications.
+             {` I'm a Web Developer with expertise in building modern and responsive web applications.
               My journey in web development has equipped me with a strong foundation in both frontend and backend technologies.`}
             </p>
 
